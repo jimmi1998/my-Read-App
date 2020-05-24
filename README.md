@@ -6,7 +6,8 @@ In the "Would You Rather?" Project, you'll build a web app that lets a user play
 
 In your app, users will be able to answer questions, see which questions they haven’t answered, see how other people have voted, post questions, and see the ranking of users on the leaderboard.
 
-This is a project for Udacity's React Fundamentals course. The starter code was taken from this repo: https://github.com/udacity/reactnd-project-myreads-starter
+This is a project for Udacity's React Fundamentals course. The starter code was taken from this repo: https://github.com/udacity/reactnd-project-myreads-starter.
+
 The starter code provides a static example of the CSS and HTML markup but without any of the React code that is needed to complete the project. Goal is to add interactivity to the app by refactoring the static code in this template.
 
 
